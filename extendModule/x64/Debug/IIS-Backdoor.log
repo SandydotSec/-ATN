@@ -1,0 +1,32 @@
+﻿  dllmain.cpp
+  Functions.cpp
+C:\Users\Administrator\Downloads\ExtendModule\module\Functions.cpp(128,33): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+C:\Users\Administrator\Downloads\ExtendModule\module\Functions.cpp(144,43): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+C:\Users\Administrator\Downloads\ExtendModule\module\Functions.cpp(169,42): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+  HttpFactory.cpp
+C:\Users\Administrator\Downloads\ExtendModule\module\HttpFactory.cpp(37,47): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/HttpFactory.cpp')
+  
+C:\Users\Administrator\Downloads\ExtendModule\module\HttpFactory.cpp(43,52): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/HttpFactory.cpp')
+  
+C:\Users\Administrator\Downloads\ExtendModule\module\HttpFactory.cpp(70,30): warning C4267: 'initializing': conversion from 'size_t' to 'USHORT', possible loss of data
+  (compiling source file '/HttpFactory.cpp')
+  
+C:\Users\Administrator\Downloads\ExtendModule\module\HttpFactory.cpp(95,52): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/HttpFactory.cpp')
+  
+C:\Users\Administrator\Downloads\ExtendModule\module\HttpFactory.cpp(224,25): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/HttpFactory.cpp')
+  
+C:\Users\Administrator\Downloads\ExtendModule\module\HttpFactory.cpp(241,32): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/HttpFactory.cpp')
+  
+  Generating Code...
+  IIS-Backdoor.vcxproj -> C:\Users\Administrator\Downloads\ExtendModule\module\x64\Debug\extendModule.dll
